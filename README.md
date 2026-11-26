@@ -22,8 +22,8 @@ Open to Werkstudent roles · 20 h/week during term · full-time during breaks ·
 <br />
 
 ![Java](https://img.shields.io/badge/Java-1a1b26?style=for-the-badge&logo=openjdk&logoColor=7aa2f7)
-![AI/ML](https://img.shields.io/badge/AI--ML-1a1b26?style=for-the-badge)
-![Hannover](https://img.shields.io/badge/Hannover-Germany-1a1b26?style=for-the-badge)
+<img src="./assets/ai-ml.svg" alt="AI/ML" height="28" />
+<img src="./assets/hannover.svg" alt="Hannover, Germany" height="28" />
 
 </div>
 
@@ -38,7 +38,7 @@ Open to Werkstudent roles · 20 h/week during term · full-time during breaks ·
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1b26?style=for-the-badge)](https://linkedin.com/in/barathkishan/)
-[![Email](https://img.shields.io/badge/Email-1a1b26?style=for-the-badge)](mailto:barath2002kishan@gmail.com)
+[![Email](./assets/email.svg)](mailto:barath2002kishan@gmail.com)
 
 </div>
 
