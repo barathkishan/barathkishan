@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&text=Barath%20Kishan%20D&fontSize=38&fontColor=c0caf5&animation=twinkling&color=0:7aa2f7,100:bb9af7&section=header" alt="Barath Kishan D" width="100%" />
 
-**M.Sc. Informatik · AI/ML · Leibniz University Hannover**
+**M.Sc. Informatik · AI/ML · Spring Boot · React · Leibniz University Hannover**
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=1200&color=7AA2F7&center=true&vCenter=true&width=560&lines=Software+engineering;Event-driven+systems;AI%2FML+and+Monte+Carlo+Tree+Search" alt="Software engineering, event-driven systems, AI and machine learning" />
 
@@ -11,7 +11,7 @@
 M.Sc. student in Hannover with 2+ years of professional experience building post-trade finance systems across middleware, simulation, and reconciliation. Focused on AI/ML; daily work includes Java, Spring Boot, Kafka, IBM MQ, React, Angular, SQL, and AWS.
 
 ```text
-English — fluent   German — B1
+English — fluent   German — B2
 Open to Werkstudent roles · 20 h/week during term · full-time during breaks · remote
 ```
 
@@ -22,8 +22,8 @@ Open to Werkstudent roles · 20 h/week during term · full-time during breaks ·
 <br />
 
 ![Java](https://img.shields.io/badge/Java-1a1b26?style=for-the-badge&logo=openjdk&logoColor=7aa2f7)
-![AI%2FML](https://img.shields.io/badge/AI%2FML-1a1b26?style=for-the-badge&logo=pytorch&logoColor=bb9af7)
-![Hannover](https://img.shields.io/badge/Hannover%2C_DE-1a1b26?style=for-the-badge&logo=googlemaps&logoColor=7aa2f7)
+![AI/ML](https://img.shields.io/badge/AI--ML-1a1b26?style=for-the-badge)
+![Hannover](https://img.shields.io/badge/Hannover-Germany-1a1b26?style=for-the-badge)
 
 </div>
 
@@ -37,8 +37,8 @@ Open to Werkstudent roles · 20 h/week during term · full-time during breaks ·
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1b26?style=for-the-badge&logo=linkedin&logoColor=7aa2f7)](https://linkedin.com/in/barathkishan/)
-[![Email](https://img.shields.io/badge/Email-1a1b26?style=for-the-badge&logo=gmail&logoColor=bb9af7)](mailto:barath2002kishan@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1b26?style=for-the-badge)](https://linkedin.com/in/barathkishan/)
+[![Email](https://img.shields.io/badge/Email-1a1b26?style=for-the-badge)](mailto:barath2002kishan@gmail.com)
 
 </div>
 
